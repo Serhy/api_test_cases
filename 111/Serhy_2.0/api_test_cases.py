@@ -1,7 +1,7 @@
 '''
 Created on Jun 21, 2016
 
-@author: Serhy
+@author: SerhyMe
 '''
 
 import unittest
